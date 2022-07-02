@@ -36,7 +36,7 @@ npm -v
 #exemple resultat : 8.5.5
 
 #vérifier git
-git -help
+git --help
 #beaucoup de ligne avec beaucoup d'information...😰
 ```
 
