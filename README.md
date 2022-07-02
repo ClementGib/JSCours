@@ -18,7 +18,7 @@
 
 **Vérifier:**
 
-<p>Une fois tout installé lancez `cmder` et tapez les commandes suivantes et assuez vous qu'elle soit bien reconnu</p>
+Une fois tout installé lancez `cmder` et tapez les commandes suivantes et assuez vous qu'elle soit bien reconnu
 
 <img src="/images/cmder_screen.png" alt="cplusplus" width="480" height="270"/> 
 
@@ -48,7 +48,7 @@ git -help
 3. <img src="/images/git.png" alt="cplusplus" width="30" height="30"/> `git` c'est un outil très utilisé par les développeurs pour gérer leurs codes dans un projet. Appelé **système de contrôle de version** il va permettre aux développeur de sauvegarder leurs code pour travailler à plusieurs sur un même projet sans se marcher dessus. Il à été créé par Linus Torvald le créateur de Linux.
 
 4. <img src="/images/github.png" alt="cplusplus" width="30" height="30"/> `github` c'est un site qui permet de stocker en ligne le code que tu va sauvegarder avec `git`, on appel ça un **repository** ça permet de donner l'accès à ton code à d'autre développeurs ou à des récruteurs 😉
-5. <img src="/images/nodejs.png" alt="cplusplus" width="30" height="30"/> `nodeJS` est un **environnement pour d'éxecution** pour du code JavaScript sans utiliser un navigateur (il est développé en C++)
+5. <img src="/images/nodejs.png" alt="cplusplus" width="30" height="30"/> `nodeJS` est un **environnement d'éxecution** pour du code JavaScript sans utiliser un navigateur (il est développé en C++)
 Avec node il est possible de :
     * Ecrire et lire dans des fichiers sur un ordinateur
     * Communiquer avec des bases de données
