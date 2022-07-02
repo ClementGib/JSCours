@@ -96,3 +96,5 @@ Si ça à bougé il vous faut la dernière version !
 #récupérer les derniers changement de la branche actuelle
 git pull
 ```
+
+Une fois que vous avez fini vous pouvez aller dans le répertoire `javascript` à la racine du `repository`  
