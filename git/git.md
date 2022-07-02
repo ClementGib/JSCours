@@ -87,7 +87,7 @@ git clone <url>
 
 Si quelqu'un à modifié des choses sur le repository en ligne vous pouvez le vérifier
 ```shell
-#récéuperer l'historique des changements
+#récupérer l'historique des changements
 git fetch -p
 ```
 
