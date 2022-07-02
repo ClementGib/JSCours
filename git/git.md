@@ -97,4 +97,4 @@ Si ça à bougé il vous faut la dernière version !
 git pull
 ```
 
-Une fois que vous avez fini vous pouvez aller dans le répertoire `javascript` à la racine du `repository`  
+Une fois que vous avez fini vous pouvez aller dans le répertoire `javascript` à la racine du `repository` et allez dans la première partie appelé `p1` pour ensuite ouvrir le fichier `p1.md`
