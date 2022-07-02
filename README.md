@@ -57,4 +57,5 @@ Avec node il est possible de :
     * ...
 
 Ok vous étes presque prêt pour commencer le cours JavaScript mais avant, on va faire un petit tour de git 🤩
+
 **📁 On se retrouve dans le dossier  git du repository pour la suite 📁**
