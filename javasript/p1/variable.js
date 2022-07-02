@@ -26,12 +26,8 @@ chiffre1 == chiffre2;
 chiffre2 += 10;
 chiffre2 -= 10;
 chiffre2 *= 10;
-chiffre2 /= 10;
-chiffre2 %= 10;
-
-//x = 1 2 3 4 5 6 7 8 9 10
-
-if (x % 3 == 0) {
+chiffre2 /= 10;"3" == 3
+if(9 % 3 == 0){
     console.log("Cest un multiple de 3")  
 } else {
     console.log("Cest pas un multiple de 3")
