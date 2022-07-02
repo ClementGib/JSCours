@@ -17,8 +17,11 @@
 
 
 **Vérifier:**
+
 <p>Une fois tout installé lancez `cmder` et tapez les commandes suivantes et assuez vous qu'elle soit bien reconnu</p>
+
 <img src="/images/cmder_screen.png" alt="cplusplus" width="480" height="270"/> 
+
 ```shell
 #vérifier gitbash
 git --version
@@ -35,11 +38,11 @@ npm -v
 #vérifier git
 git -help
 #beaucoup de ligne avec beaucoup d'information...😰
-
 ```
 
 
 **C'est quoi ces trucs ?**
+
 1. <img src="/images/cmder.png" alt="cplusplus" width="30" height="30"/> `cmder` est un **terminal de commande** pour windows ça permettra d'avoir un terminal plus attrayant que `cmd` ou le `powershell` déja intégré dans Windows. 
 2. <img src="/images/vscode.png" alt="cplusplus" width="30" height="30"/> `vscode` est un **éditeur de text** très utile pour développer sur tout type de langage mais surtout du web (HTML, CSS, JavaScript...)
 3. <img src="/images/git.png" alt="cplusplus" width="30" height="30"/> `git` c'est un outil très utilisé par les développeurs pour gérer leurs codes dans un projet. Appelé **système de contrôle de version** il va permettre aux développeur de sauvegarder leurs code pour travailler à plusieurs sur un même projet sans se marcher dessus. Il à été créé par Linus Torvald le créateur de Linux.
