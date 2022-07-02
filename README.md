@@ -1,8 +1,10 @@
 # ✨Cours JavaScript✨
 ## Introduction 🚪
-**Bienvenu sur mon repository de cours JavaScript** <img src="/images/js.png" alt="cplusplus" width="50" height="50"/>
+**Bienvenu sur mon repository de cours JavaScript**<img src="/images/js.png" alt="cplusplus" width="50" height="50"/>
+
 <p>Assurez vous bien d'avoir les prérequis et lisez bien cette page avant de vous lancer dans le cours! Ce cours doit se faire dans l'ordre et demandes l'utilisation de certains outils comme: Git, VsCode ou nodejs. Bon courage !
 💪</p>
+
 ### Prérequis 🧰 
 **Avoir des bases de HTML et CSS**
 **Installer les outils suivants:**
