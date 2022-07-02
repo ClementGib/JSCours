@@ -97,4 +97,10 @@ Si ça à bougé il vous faut la dernière version !
 git pull
 ```
 
+Bon ouvrons ça dans vscode maintenant
+```shell
+#ouvrir vscode dans le répertoire courant !
+code .
+```
+
 Une fois que vous avez fini vous pouvez aller dans le répertoire `javascript` à la racine du `repository` et allez dans la première partie appelé `p1` pour ensuite ouvrir le fichier `p1.md`.
