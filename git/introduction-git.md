@@ -66,8 +66,9 @@ Donc Git est **système de contrôle de version** distribué. Ca signifie que ch
 * tout l'historique de modification du code
 * tous les changements de chacun des développeurs
 
-Ca sappel un **repository** et toute les informations sont stockées dans un dossier caché des projets informatiques appelé `.git`.
-Grace à `git` les développeurs vont travailler sur des branches indépendantes, une fois qu'il auront terminé leur travail sur leurs branche ils vont fusionner leur travail avec celui des autres sur une branche principale qui va contenir le projet fonctionnel souvent appelé `master`.
+Ca s'appelle un **repository** et si vous avez bien suivi le cours JSCours est un repository. 🤯 <br>
+Dans un repository toute les informations sont stockées dans un dossier caché des projets informatiques appelé `.git`.
+Grace à l'outil `git` les développeurs vont travailler sur des branches indépendantes, une fois qu'il auront terminé leur travail sur leurs branches ils vont fusionner leur travail avec celui des autres sur une branche principale souvent appelé `master` qui va contenir le projet fonctionnel.
 <img src="/images/gitwork.jpg" alt="cplusplus" width="960" height="540"/>
 
 **Bon ok...😵 essayons git !**
@@ -76,7 +77,7 @@ Grace à `git` les développeurs vont travailler sur des branches indépendantes
 #avoir la documentation de git
 git --help
 ```
-*Bon google c'est bien aussi!*
+*Bon si jamais, google c'est bien aussi!* 🦥
 
 
 2. Essayez de télécharger le projet sur lequel vous étes depuis l'URL `https://github.com/ClementGib/JSCours`:
@@ -107,5 +108,7 @@ Bon ouvrons ça dans vscode maintenant
 #ouvrir vscode dans le répertoire courant !
 code .
 ```
+
+Bravo vous étes désormait capable de cloner un repository et de récupérer les modifications si besoin! Tous ce qu'il faut pour commencer 😏 
 
 📁 Une fois que vous avez fini vous pouvez aller dans le répertoire `javascript` à la racine du `repository` et allez dans la première partie appelé `p1` pour ensuite ouvrir le fichier `p1.md`. 📁
