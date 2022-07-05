@@ -51,7 +51,7 @@ L'autre doit développer la partie `<footer></footer>` soit le bas de page.
 </html>
 ```
 
-<img src="/images/ui.png" alt="cplusplus" width="480" height="270" styles="background-position: -50px -60px;"/>
+<img src="/images/ui.png" alt="cplusplus" width="480" height="270" styles="border: 5px solid black;"/>
 
 * Si il développe en même temps sur le fichier stocké sur le serveur d'entreprise, ils vont se géner pour travailler et risquent de casser les fonctionnalités de l'autre développeur...
 * Si il développe chacun sur une version locale qu'ils vont télécharger. Une fois terminé, ils vont déposer le fichier sur le serveur et c'est la dernière copie du fichier qui va écraser toute les modifications de l'autre développeur...
