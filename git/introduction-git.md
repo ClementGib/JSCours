@@ -1,10 +1,10 @@
-## Git <img src="/images/git.png" alt="cplusplus" width="50" height="50"/>
-**Ici on va parler un peu de git un outil vraiment génial que tous développeur doit maitriser! 😌** 
+## Introduction Git <img src="/images/git.png" alt="cplusplus" width="50" height="50"/>
+**On est sur un cours Javascript mais ici on va parler un peu de git, car c'est un outil vraiment génial que tous développeur doit maitriser! 😌** 
 
-*Si vous étes ici, vous avez déja installé git et il doit fonctionner sur votre terminal.*
+*Si vous étes ici, vous venez d'installer git et il doit fonctionner sur votre terminal. 👍*
 
 
-**Ca à l'air bien mais j'ai pas bien compris comment ça marche...😓**
+**Ca à l'air bien mais j'ai pas bien compris comment ça marche... 😓**
 
 Imaginons qu'on a une équipe de deux développeurs, les deux développeurs travaillent sur le même fichier HTML en parallèle qui est stocké sur le serveur de l'entreprise.
 ```html
