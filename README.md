@@ -58,4 +58,4 @@ Avec node il est possible de :
 
 Ok vous étes presque prêt pour commencer le cours JavaScript mais avant, on va faire un petit tour de git 🤩
 
-**📁 On se retrouve dans le fichier Markdown (git.md) du dossier git pour la suite 📁**
+**📁 On se retrouve dans le fichier Markdown d'introduction sur git (introduction-git.md). Il se trouve dans le dossier git du repository, on se retrouve là-bas📁**
