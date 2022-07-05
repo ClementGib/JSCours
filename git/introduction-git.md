@@ -79,19 +79,24 @@ git --help
 *Bon google c'est bien aussi!*
 
 
-2. Essayez de télécharger le projet sur lequel vous étes https://github.com/ClementGib/JSCours
+2. Essayez de télécharger le projet sur lequel vous étes depuis l'URL `https://github.com/ClementGib/JSCours`:
 ```shell
-#télécharger un repository git depuis son URL
+#télécharger un repository git depuis un URL
 git clone <url>
 ```
-
+3. Déplacez vous dans le répertoire `JSCours` avec la commande cd:
+```shell
+#aller dans un répertoire
+cd <nom-du-repertoire>
+```
+4. Essayez les commandes git de base:
 Si quelqu'un à modifié des choses sur le repository en ligne vous pouvez le vérifier
 ```shell
 #récupérer l'historique des changements
 git fetch -p
 ```
 
-Si ça à bougé il vous faut la dernière version !
+Si ça a bougé il vous faut la dernière version !
 ```shell
 #récupérer les derniers changement de la branche actuelle
 git pull
