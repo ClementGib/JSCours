@@ -50,6 +50,7 @@ L'autre doit développer la partie `<footer></footer>` soit le bas de page.
   </body>
 </html>
 ```
+
 <img src="/images/ui.png" alt="cplusplus" width="480" height="270"/>
 
 * Si il développe en même temps sur le fichier stocké sur le serveur d'entreprise, ils vont se géner pour travailler et risquent de casser les fonctionnalités de l'autre développeur...
@@ -69,6 +70,7 @@ Donc Git est **système de contrôle de version** distribué. Ca signifie que ch
 Ca s'appelle un **repository** et si vous avez bien suivi le cours JSCours est un repository. 🤯 <br>
 Dans un repository toute les informations sont stockées dans un dossier caché des projets informatiques appelé `.git`.
 Grace à l'outil `git` les développeurs vont travailler sur des branches indépendantes, une fois qu'il auront terminé leur travail sur leurs branches ils vont fusionner leur travail avec celui des autres sur une branche principale souvent appelé `master` qui va contenir le projet fonctionnel.
+
 <img src="/images/gitwork.jpg" alt="cplusplus" width="960" height="540"/>
 
 **Bon ok...😵 essayons git !**
