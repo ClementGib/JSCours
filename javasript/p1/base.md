@@ -124,7 +124,7 @@ Il existe différents types d'opérateur.
 | `++`  | incrémente une valeur        | `age++` // va ajouter 1 à l'age   (+1)  |
 | `--`  | décrémente une valeur        | `pointDeVie--` //va retirer 1 à l'age (-1)    |
 
-#####Comparison operators:
+##### Comparison operators:
 
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
@@ -137,7 +137,7 @@ Il existe différents types d'opérateur.
 | `<=`   | Vérifie que la valeur de gauche est inférieur ou égale        | `age <= 18` inférieur ou égale à 18  |
 
 
-#####Assignment operators:
+##### Assignment operators:
 
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
@@ -149,7 +149,7 @@ Il existe différents types d'opérateur.
 | %=   | va diviser par le nombre de droite et assigner le reste de la division        | `age %= 5` (22%5 soit un reste de 2)   |
 
 
-#####Logical operators:
+##### Logical operators:
 
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
@@ -157,7 +157,7 @@ Il existe différents types d'opérateur.
 | `|| ` | OU ou OR operator il permet si une ou l'autre est bonne    | `age < 8 || age > 60` // si l'age est inférieur à 8ans et supérieur à 60ans pour une réduction par exemple  |
 | `!`  | NOT ou N'EST PAS, il permet de vérifier l'inverse     | `boolean dead = false; !dead` // pour vérifier qu'il n'est pas mort par exemple...   |
 
-#####Ternary operators:
+##### Ternary operators:
 
 Un operateur moins important mais très utilisé en javascript donc bon à savoir:
 ` ? : ;` soit `<condition> ? <valeur1> : <valeur2>`
