@@ -26,6 +26,7 @@ console.log("Vive les frites"); // Va afficher "Vive les frites" 🥔
 ```
 
 #### Variables 🗃️:
+
 - Les variables permettent de stocker des valeur:
 ```javascript
 var numero = 10;
@@ -124,6 +125,7 @@ Il existe différents types d'opérateur.
 | `--`  | décrémente une valeur        | `pointDeVie--` //va retirer 1 à l'age (-1)    |
 
 #####Comparison operators:
+
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
 | `==`     | compare deux égalitées    | `age == 18` // vérifie que l'age est bien égale à 18  |
@@ -136,6 +138,7 @@ Il existe différents types d'opérateur.
 
 
 #####Assignment operators:
+
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
 | =      | assigne la valeur de droite       | `age = 20;` // va assigner 20 à age   |
@@ -147,6 +150,7 @@ Il existe différents types d'opérateur.
 
 
 #####Logical operators:
+
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
 | `&& `    | ET ou AND operator il permet de vérifier plusieurs condition     | `age > 18 && age < 60` // si l'age est supérieur à 18ans et inférieur à 60ans pour avoir un accès par exemple |
@@ -154,6 +158,7 @@ Il existe différents types d'opérateur.
 | `!`  | NOT ou N'EST PAS, il permet de vérifier l'inverse     | `boolean dead = false; !dead` // pour vérifier qu'il n'est pas mort par exemple...   |
 
 #####Ternary operators:
+
 Un operateur moins important mais très utilisé en javascript donc bon à savoir:
 ` ? : ;` soit `<condition> ? <valeur1> : <valeur2>`
 ```javascript
