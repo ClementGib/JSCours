@@ -1,70 +1,119 @@
+//EXERCICE 🎯 
+//Pour chacun des block de code suivant, 
+//remplace les "????" par ce que le programme va afficher à l'écran 🧐
+// Essaye de trouver sans tricher ... 👮
 
+//1 SIMPLE
 
-/// ???
-var chiffre = 10;
+chiffre = 10;
+/// résultat: ????
 console.log(chiffre);
 
-/// ???
 chiffre = 20;
+/// résultat: ????
 console.log(chiffre);
 
-// ???
+/// résultat: ????
 console.log(chiffre + 10);
-//chiffre ???
 
-chiffre = chiffre + 10;
+/// résultat: ????
 console.log(chiffre);
 
 chiffre += 10;
+/// résultat: ????
 console.log(chiffre);
 
-chiffre1 = 50;
-chiffre2 = 44;
+chiffre -= 10;
+/// résultat: ????
+console.log(chiffre);
 
-chiffre1 == chiffre2;
+chiffre *= 2;
+/// résultat: ????
+console.log(chiffre);
 
-chiffre2 += 10;
-chiffre2 -= 10;
-chiffre2 *= 10;
-chiffre2 /= 10;"3" == 3
-if(9 % 3 == 0){
-    console.log("Cest un multiple de 3")  
-} else {
-    console.log("Cest pas un multiple de 3")
-}
+chiffre /= 2;
+/// résultat: ????
+console.log(chiffre);
 
-chiffre1 == chiffre2;
-chiffre1 != chiffre2;
+chiffre %= 2;
+/// résultat: ????
+console.log(chiffre);
 
-chiffre3 = 12.5;
-chiffre4 = 12;
+//2 ASSIGNATION
 
-name = "tanguy";
-text = "Salut";
+chiffre1 = 100;
+chiffre2 = 50;
+chiffre3 = chiffre1 + chiffre2;
+/// résultat: ????
+console.log(chiffre3);
 
-text2 = 'salut';
+chiffre3 -= chiffre2;
+/// résultat: ????
+console.log(chiffre3);
+
+chiffre3 -= true;
+/// résultat: ????
+console.log(chiffre3);
+
+chiffre3 += true;
+/// résultat: ????
+console.log(chiffre3);
+
+mot1 = "EZ";
+mot2 = "PZ";
+/// résultat: ????
+console.log(mot1 + "." + mot2);
+
+juste  = "True";
+/// résultat: ????
+console.log(juste + false);
+
+/// résultat: ????
+console.log(true + false);
+
+/// résultat: ????
+console.log(true + true);
+
+// Alors oui il peut y avoir des trucs bizarre mais il faut essayer de comprendre Pourquoi
+// Ca peut devenir très utile par la suite...
+
+age = 18;
+/// résultat: ????
+console.log(age > 18 );
+
+/// résultat: ????
+console.log(age == 18 );
+
+/// résultat: ????
+console.log(age == "18" );
+
+/// résultat: ????
+console.log(age === "18" );
+
+age = 60;
+/// résultat: ????
+console.log(age > 18 && age >= 60);
+
+/// résultat: ????
+console.log(!age != 60);
 
 
+numero = 1.5;
+/// résultat: ????
+console.log(numero > 1 && numero < 2);
+
+numero = 1.5;
+/// résultat: ????
+console.log(numero < 1 || numero < 2);
 
 
-vivant = false;
-vivant = true;
-
-vivant = "Ouais";
-
-text1 = null;   
-text2 = "";
-
-
-number1 = 10;
-number2 = 20;
-number2 != number1; // true
-number2 == number1; // false
-
-value1 = undefined;
-value2 = null;
-
-value3 = console.log("COucou");
+//🐯 BOSS LEVEL 🐯
+annee = 2022;
+age = 18;
+annee == 2022 && (annee - age > 2000) ? "Gen Z 👶🏻" : "Millennials 🦄";
+/// résultat: ????
+console.log(chiffre1);
 
 
-//if (name != null && surname != null)
+console.log(`BRAVO, tu sera bientôt un pro de JavaScript 👏`);
+
