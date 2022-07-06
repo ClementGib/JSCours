@@ -141,12 +141,12 @@ Il existe différents types d'opérateur.
 
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
-| =      | assigne la valeur de droite       | `age = 20;` // va assigner 20 à age   |
-| +=   | ajoute la valeur de droite      | `age += 5;` // va ajouter 5 à l'age actuel ( 20 + 5)  |
-| -=  | retire la valeur de droite         | `age -= 3;` // va retirer 3 à l'age actuel ( 25 - 3)    |
-| *=  | va multiplier par la valeur de droite       | `age *= 2` // multiplie par 2 ( 22 * 2)     |
-| /=  | va diviser par la valeur de droite        | `age /= 2` // divise par 2 ( 44 / 2)     |
-| %=   | va diviser par le nombre de droite et assigner le reste de la division        | `age %= 5` (22%5 soit un reste de 2)   |
+| `=`     | assigne la valeur de droite       | `age = 20;` // va assigner 20 à age   |
+| `+=`   | ajoute la valeur de droite      | `age += 5;` // va ajouter 5 à l'age actuel ( 20 + 5)  |
+| `-=`  | retire la valeur de droite         | `age -= 3;` // va retirer 3 à l'age actuel ( 25 - 3)    |
+| `*=`  | va multiplier par la valeur de droite       | `age *= 2` // multiplie par 2 ( 22 * 2)     |
+| `/=`  | va diviser par la valeur de droite        | `age /= 2` // divise par 2 ( 44 / 2)     |
+| `%=`   | va diviser par le nombre de droite et assigner le reste de la division        | `age %= 5` (22%5 soit un reste de 2)   |
 
 
 ##### Logical operators:
@@ -154,7 +154,7 @@ Il existe différents types d'opérateur.
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
 | `&& `    | ET ou AND operator il permet de vérifier plusieurs condition     | `age > 18 && age < 60` // si l'age est supérieur à 18ans et inférieur à 60ans pour avoir un accès par exemple |
-| `|| ` | OU ou OR operator il permet si une ou l'autre est bonne    | `age < 8 || age > 60` // si l'age est inférieur à 8ans et supérieur à 60ans pour une réduction par exemple  |
+| `||` | OU ou OR operator il permet si une ou l'autre est bonne     | `age < 8 || age > 60` // si l'age est inférieur à 8ans et supérieur à 60ans pour une réduction par exemple  |
 | `!`  | NOT ou N'EST PAS, il permet de vérifier l'inverse     | `boolean dead = false; !dead` // pour vérifier qu'il n'est pas mort par exemple...   |
 
 ##### Ternary operators:
