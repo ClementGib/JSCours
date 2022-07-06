@@ -153,8 +153,8 @@ Il existe différents types d'opérateur.
 
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
-| `&& `    | ET ou AND operator il permet de vérifier plusieurs condition     | `age > 18 && age < 60` // si l'age est supérieur à 18ans et inférieur à 60ans pour avoir un accès par exemple |
-| `||` | OU ou OR operator il permet si une ou l'autre est bonne     | `age < 8 || age > 60` // si l'age est inférieur à 8ans et supérieur à 60ans pour une réduction par exemple  |
+| `&& `    | ET ou AND operator il permet de vérifier plusieurs condition...     | `age > 18 && age < 60` // si l'age est supérieur à 18ans et inférieur à 60ans pour avoir un accès par exemple |
+| `||`  | OU ou OR operator, il permet de vérifier l'une ou l'autre condition    | `age <= 8 && age >= 60` // si l'age est inférieur ou égal à 8ans et supérieur ou égale à 60ans pour avoir une réduction par exemple...   |
 | `!`  | NOT ou N'EST PAS, il permet de vérifier l'inverse     | `boolean dead = false; !dead` // pour vérifier qu'il n'est pas mort par exemple...   |
 
 ##### Ternary operators:
