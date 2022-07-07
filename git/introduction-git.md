@@ -166,12 +166,6 @@ Pour pousser les modifications sur le repository distant
 git push
 ```
 
-:
-```shell
-#le fichier doit être vert si il est ajouté 🟢
-git status
-```
-
 Bravo vous étes désormait capable de cloner un repository et de récupérer les modifications si besoin! Tous ce qu'il faut pour commencer 😏 
 
 📁 Une fois que vous avez fini vous pouvez aller dans le répertoire `javascript` à la racine du `repository` et allez dans la première partie appelé `p1` pour ensuite ouvrir le fichier `p1.md`. 📁
