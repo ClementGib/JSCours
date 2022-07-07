@@ -98,6 +98,9 @@ Si quelqu'un à modifié des choses sur le repository en ligne vous pouvez le v�
 #récupérer l'historique des changements
 git fetch -p
 ```
+### Commandes utiles:
+
+#### Récupération:
 
 Si ça a bougé il vous faut la dernière version !
 ```shell
@@ -109,6 +112,64 @@ Bon ouvrons ça dans vscode maintenant
 ```shell
 #ouvrir vscode dans le répertoire courant !
 code .
+```
+
+
+#### Branche:
+
+Par défaut vous étes sur la branche principale `MASTER`
+
+Si vous voulez voir sur quelle branche vous étes
+```shell
+#voir la branche courrante
+git branch
+```
+
+Si vous voulez créer une nouvelle branche 
+(la branche `correction` pour les exercices par exemple) 
+```shell
+#créer une branche
+git checkout -b <nom-branche>
+```
+
+#### Modification:
+
+Si vous avez fait des modifications vous pouvez le vérifier avec la commande:
+```shell
+#liste tout les fichiers ajouté, modifié ou supprimé en rouge 🔴
+git status
+```
+
+Si vous étes OK avec les modifications du fichier vous pouvez l'ajouter
+(fichier `variable.js` pour l'exercice 1 par exemple) 
+```shell
+#ajouter le fichier en question
+git add <nom-du-fichier>
+```
+
+Pour vérifier si il est ajouté:
+```shell
+#le fichier doit être vert si il est ajouté 🟢
+git status
+```
+ 
+Pour valider les modification en expliquant pourquoi
+(pour la "correction de l'exercice 1" par exemple)
+```shell
+#valider les modifications en expliquant pourquoi
+git commit -m "<raison-de-la-modification>"
+```
+
+Pour pousser les modifications sur le repository distant
+```shell
+#pousser les modification
+git push
+```
+
+:
+```shell
+#le fichier doit être vert si il est ajouté 🟢
+git status
 ```
 
 Bravo vous étes désormait capable de cloner un repository et de récupérer les modifications si besoin! Tous ce qu'il faut pour commencer 😏 
