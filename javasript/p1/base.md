@@ -178,3 +178,4 @@ var nombre4 = nombre1 > nombre2 ? nombre2 : nombre1; // valeur de d va être 5
 Ok ça fait beaucoup de blablabla 😴
 Mais avec ça tu va bientot pouvoir faire des trucs cool ✨
 Va vérifier que ta bien compris en réalisant le petit exercice du fichier `variable.js` 
+Une fois terminé vous allez `git push` la correction sur une branche appelé **correction**, retournez dans le fichier `introduction-git.md` du répertoire `git` pour plus d'informations.
