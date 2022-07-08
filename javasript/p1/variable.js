@@ -112,7 +112,7 @@ annee = 2022;
 age = 18;
 annee == 2022 && (annee - age > 2000) ? "Gen Z 👶🏻" : "Millennials 🦄";
 /// résultat: ????
-console.log(chiffre1);
+console.log(annee);
 
 
 console.log(`BRAVO, tu sera bientôt un pro de JavaScript 👏`);
