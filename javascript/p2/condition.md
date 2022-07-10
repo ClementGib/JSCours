@@ -154,6 +154,7 @@ la boucle la plus utile et utilisé, il y en à partout !
 le but de cette boucle est de partir d'une valeur initiale et d'avancer jusqu'a une valeur finale.
 
 - `for()` se décompose en trois : initialization, condition et une expression finale
+Pour simplifier la construction il faut se rappeler de la phrase "Pour X, Tant que X est pas Y, On ajoute Z à X"
 
 ```javascript
 //for ([initialization]; [condition]; [final-expression] {}
@@ -212,6 +213,7 @@ for (let jour = 2; jour < 100; jour*=2) {
 ## While 
 
 la boucle moins utilisé mais pratique pour répéter une action tant que la condition n'est pas validé, on utilise le `while()` à la place du `for()` quand on ne sait pas combien de fois mais on sait ce qui va déclancher la fin de la boucle.
+Pour simplifier while il faut se dire "Tant que X"
 
 ```javascript
 while (i < 6) {
@@ -241,6 +243,7 @@ while(1) {
 ```
 
 ## Do while 
+Pour simplifier do while il faut se dire "Je fais ça, tant que X"
 
 ```javascript
 do {
