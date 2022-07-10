@@ -1,0 +1,1 @@
+passer dans une chaine et mettre en majuscule que les voyelles

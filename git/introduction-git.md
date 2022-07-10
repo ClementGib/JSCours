@@ -117,7 +117,7 @@ code .
 
 #### Branche:
 
-Par défaut vous étes sur la branche principale `MASTER`
+Par défaut vous étes sur la branche principale `MAIN`
 
 Si vous voulez voir sur quelle branche vous étes
 ```shell
@@ -132,12 +132,33 @@ Si vous voulez créer une nouvelle branche
 git checkout -b <nom-branche>
 ```
 
+Si vous voulez voir les branches existantes
+```shell
+#afficher les branches et la branche courrante en *vert 🟢
+git branch
+```
+
+Une fois que votre branche existe vous pouvez directement aller dessus
+(la branche principale `main` pour récupérer les dernière modifs du proff 👨‍🏫 par exemple ) 
+```shell
+#changer de branche
+git checkout  <nom-branche>
+```
+
 #### Modification:
 
 Si vous avez fait des modifications vous pouvez le vérifier avec la commande:
 ```shell
 #liste tout les fichiers ajouté, modifié ou supprimé en rouge 🔴
 git status
+```
+
+Si vous voulez voir les modifications en détail, chaque changement sur les fichiers...
+```shell
+#liste tout les modifications:
+# en rouge les suppression 🔴
+# en vert les ajouts 🟢
+git diff
 ```
 
 Si vous étes OK avec les modifications du fichier vous pouvez l'ajouter
@@ -161,6 +182,7 @@ git commit -m "<raison-de-la-modification>"
 ```
 
 Pour pousser les modifications sur le repository distant
+assurez vous bien de pousser les modifications sur la branche que vous souhaitez (exemple "correction")
 ```shell
 #pousser les modification
 git push
