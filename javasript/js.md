@@ -4,11 +4,11 @@
 - Pourquoi JavaScript ? Premiers tests et introductions aux concepts
 - Variables et opérateurs
 - Exercice: Variables et opérateurs
-## 2. Partie 2 : Les fonctions - dossier p2
-- Les fonctions
+## 2. Partie 2 : Les conditions - dossier p2
+- Les conditions
 - Exercice: Fonction
   
 ## 3. Partie 3 : 
-- ?
-- Exercice: 
+- Les fonctions
+- Exercice: Fonction
 
