@@ -254,4 +254,4 @@ Est équivalent au while sauf qu'il va s'executer au moins une fois
 - Si la condition dans une boucle while est fausse, aucune instruction à l’intérieur de la boucle n’est exécutée et si la condition dans la boucle do while est fausse, alors le corps de la boucle est exécuté au moins une fois la condition testée.
 
 
-<img src="../../images/bipbip.png" alt="if else" width="480" height="270"/>
+<img src="../../images/bipbip.png" alt="if else" width="560" height="380"/>
