@@ -1,5 +1,5 @@
 // use node command
-function sub(a, b) {
-    return a-b
+function multi(a, b) {
+    return a * b
     }
-console.log(sub(6, 2))
+console.log("Le résultat de 99 * 65 est " + multi(99, 65))
