@@ -1,13 +1,14 @@
 # ✨Cours JavaScript✨
 
-## 1. Partie 1 : Introduction à JavaScript - dossier p1
+## 1. Partie 1 : Introduction à JavaScript et les bases - dossier p1
 - Pourquoi JavaScript ? Premiers tests et introductions aux concepts
-- Exercice: 
-## 2. Partie 2 : Les concepts de base - dossier p2
-- JavaScript concepts: variables, fonction, condition...
-- Exercice: 
+- Variables et opérateurs
+- Exercice: Variables et opérateurs
+## 2. Partie 2 : Les fonctions - dossier p2
+- Les fonctions
+- Exercice: Fonction
   
-## 2. Partie 2 : Les concepts de base - dossier p2
-- JavaScript concepts: variables, fonction, condition...
+## 3. Partie 3 : 
+- ?
 - Exercice: 
 
