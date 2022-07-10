@@ -9,7 +9,7 @@ la première instruction conditionnelle est le `if()`
 
 - Le `if()` permet d'executer un block de code seulement si la condition est validé (`true`)
 
-<img src="../../images/ifelse.png" alt="if else" width="480" height="270"/>
+<img src="../../images/ifelse.png" alt="if else" width="480" height="400"/>
 
 ```javascript
 if (true) {
