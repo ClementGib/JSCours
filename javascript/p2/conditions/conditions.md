@@ -48,4 +48,4 @@ Demander à l'utilisateur trois fois sur la page HTML de saisir au clavier:
 Regarder la documentation de `isNaN` pour afficher vérifier que c'est un number
 
 
-Une fois terminer ajouter la correction, faire un commit de correction des exercice des conditions sur la branche "correction" et push le code sur le repository en ligne 🤓
+Une fois terminé, ajouter la correction: faire un commit de correction des exercice des conditions sur la branche "correction" et push le code sur le repository en ligne 🤓
