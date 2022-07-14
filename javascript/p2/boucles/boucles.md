@@ -21,7 +21,7 @@ Demander à l'utilisateur une fois sur la page HTML de saisir un nombre
 
 1. Faire une itération avec la boucle `for`
 partir de 1 et additionner tous les chiffres précédent le nombre entré par l'utilisateur
-2 Afficher à l'écran la somme!
+2. Afficher à l'écran la somme!
 
 Exemples: 
 avec le nombre 10 -> 1 + 2 + 3 + 4 ... + 8 + 9 + 10 = **55**
