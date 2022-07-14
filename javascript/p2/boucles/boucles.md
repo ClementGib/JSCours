@@ -96,4 +96,4 @@ Pour le nombre 8 -> Afficher à l'écran cette pyramide
 ECT ...
 
 
-Une fois terminer ajouter la correction, faire un commit de correction des exercice des conditions sur la branche "correction" et push le code sur le repository en ligne 🤓
+Une fois terminé, ajouter la correction: faire un commit de correction des exercice des conditions sur la branche "correction" et push le code sur le repository en ligne 🤓
