@@ -113,7 +113,9 @@ var anneeDeNaissance = annee - age;
 #### Opérateurs 🧮:
 
 Il existe différents types d'opérateur.
-#####Arithmetic operators:
+
+##### Arithmetic operators:
+
 | Opérateur      | Description | Example |
 | :---        |    :----:   |          ---: |
 | `+`      | additionne des valeurs       | `20 + 2` // va donner 22   |
