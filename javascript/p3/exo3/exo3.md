@@ -9,3 +9,6 @@ Objectif:
 
 Rappel de l'arrangement mathématique pour ce cas concret:
 L'arrangement est le nombre de possibilité
+
+
+![Alt Text](images/table.gif)
