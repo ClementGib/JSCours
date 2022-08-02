@@ -35,7 +35,7 @@ Troisième possibilité:
 
 <img src="images/p3.png" width="300" height="200" />
 
-...
+Il y en a encore beaucoup d'autre...
 
 
 Pour calculer les possibilité on va utiliser une fonction mathématique appelé factorielle et qui s'écrit avec un point d'esclamation:
