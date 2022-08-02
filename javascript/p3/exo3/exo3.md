@@ -19,6 +19,8 @@ C'est le nombre de possibilité d'organisation sans répéter les même cas, exe
 - Le quatrième 3 places possibles
 - Le cinquième 2 places possibles
 - et le dernier il aura plus trop le choix...
+
+
 ![Alt Text](images/table.gif)
 
 Imaginons que ensuite on refasse l'organisation mais avec un ordre différent et ça jusqu'à avoir toute les possibilités possibles:
