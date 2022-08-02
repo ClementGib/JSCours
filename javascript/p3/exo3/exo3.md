@@ -12,3 +12,10 @@ L'arrangement est le nombre de possibilité
 
 
 ![Alt Text](images/table.gif)
+
+
+<img src="images/p1" width="120" height="120" />
+
+<img src="images/p2" width="120" height="120" />
+
+<img src="images/p3" width="120" height="120" />
