@@ -43,9 +43,9 @@ Et il y en a encore beaucoup d'autres... 😬
 
 ### Théorie mathématique 🧮 
 
-Pour calculer les possibilité on va utiliser une fonction mathématique appelé factorielle et qui s'écrit mathématiquement avec un point d'esclamation:
-`6! = 720` soit 720 possibilités d'organisation,
-pourquoi car :
+Pour calculer les possibilité on va utiliser une fonction mathématique appelé factorielle et qui s'écrit mathématiquement avec un point d'esclamation `6! = 720` soit 720 possibilités.
+
+Détail:
 - le premier à 6 possibilités
 - le second 5 possibilités
 - le troisième 4 possibilités
