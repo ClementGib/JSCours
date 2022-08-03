@@ -6,6 +6,7 @@
 1. Demander à l'utilisateur combien de personnes il y aura lors de la réunion.
 2. Créer une fonction factorielle qui va prendre le nombre de personnes et va calculer le nombre de possibilités d'arrangement.
 3. Utiliser cette fonction et afficher à l'écran le nombre de possibilités selon le nombre de personnes.
+(Exo à faire dans le fichier `exo3.js`, executer votre programme avec NodeJs)
 
 ## Rappel de l'arrangement mathématique:
 "L'arrangement est la disposition ordonnée d'un certain nombre d'éléments" 🤨🤔<br>
