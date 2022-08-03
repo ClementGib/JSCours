@@ -9,7 +9,8 @@
 
 ## Rappel de l'arrangement mathématique:
 "L'arrangement est la disposition ordonnée d'un certain nombre d'éléments" 🤨🤔
-En gros c'est le nombre de possibilité d'organisation réalisable sans répéter les même cas.
+
+En gros c'est le nombre de possibilité d'organisation réalisable sans répéter les mêmes cas.
 
 Exemple:
 6 personnes arrivent dans une salle de réunion, il y a une table de 6 places:
