@@ -46,12 +46,12 @@ Et il y en a encore beaucoup d'autres... 😬
 Pour calculer les possibilité on va utiliser une fonction mathématique appelé factorielle et qui s'écrit mathématiquement avec un point d'esclamation `6! = 720` soit 720 possibilités.
 
 Détail:
-- le premier à 6 possibilités
-- le second 5 possibilités
-- le troisième 4 possibilités
-- le quatriéme 3 possibilités
-- le cinquième 2 possibilités
-- et le dernier 1 possibilité
+- Le premier à 6 possibilités
+- Le second 5 possibilités
+- Le troisième 4 possibilités
+- Le quatriéme 3 possibilités
+- Le cinquième 2 possibilités
+- Le sixième 1 possibilité
 
 On peut calculer ça en faisant: `6 * 5 * 4 * 3 * 2 * 1 = 720` <br>
 donc 720 possibilités !
