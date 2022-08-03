@@ -52,7 +52,9 @@ pourquoi car :
 - le quatriéme 3 possibilités
 - le cinquième 2 possibilités
 - et le dernier 1 possibilité
-En va faire : 6 * 5 * 4 * 3 * 2 * 1 = 720 (possibilités)
+
+On peut calculer ça en faisant: `6 * 5 * 4 * 3 * 2 * 1 = 720` <br>
+donc 720 possibilités !
 
 ### Théorie algorithmique 🤖
 
