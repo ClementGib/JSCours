@@ -1,13 +1,13 @@
 # Exo 3
 
-### Objectif:  Réaliser une fonction factorielle pour calculer le nombre possible d'arrangements pour l'organisation d'une salle de réunion selon le nombre de personnes.
+## Objectif:  Réaliser une fonction factorielle pour calculer le nombre possible d'arrangements pour l'organisation d'une salle de réunion selon le nombre de personnes.
 (On en a parlé récemment 😉)
 
 1. Demander à l'utilisateur combien de personnes il y aura lors de la réunion.
 2. Créer une fonction factorielle qui va prendre le nombre de personnes et va calculer le nombre de possibilités d'arrangement.
 3. Utiliser cette fonction et afficher à l'écran le nombre de possibilités selon le nombre de personnes.
 
-### Rappel de l'arrangement mathématique:
+## Rappel de l'arrangement mathématique:
 "L'arrangement est la disposition ordonnée d'un certain nombre d'éléments" 🤨🤔
 En gros c'est le nombre de possibilité d'organisation réalisable sans répéter les même cas.
 
@@ -27,21 +27,21 @@ Imaginons qu'on refasse ensuite l'organisation mais que les participants mais av
 
 #### Exemple:
 
-Première possibilité:
+1. Première possibilité:
 
 <img src="images/p1.png" width="300" height="200" />
 
-Seconde possibilité:
+2. Seconde possibilité:
 
 <img src="images/p2.png" width="300" height="200" />
 
-Troisième possibilité:
+3. Troisième possibilité:
 
 <img src="images/p3.png" width="300" height="200" />
 
-Et il y en a encore beaucoup d'autres...
+Et il y en a encore beaucoup d'autres... 😬
 
-### Théorie mathématique
+### Théorie mathématique 🧮 
 
 Pour calculer les possibilité on va utiliser une fonction mathématique appelé factorielle et qui s'écrit mathématiquement avec un point d'esclamation:
 `6! = 720` soit 720 possibilités d'organisation,
@@ -54,7 +54,7 @@ pourquoi car :
 - et le dernier 1 possibilité
 En va faire : 6 * 5 * 4 * 3 * 2 * 1 = 720 (possibilités)
 
-### Théorie algorithmique 
+### Théorie algorithmique 🤖
 
 Du coup pour faire ça sous forme d'un algo ? 🤨🤔 
 il faut créer une fonction factorielle qui va prendre le nombre de personne en paramètre appelé `personnes`,
