@@ -61,4 +61,5 @@ donc 720 possibilités !
 Du coup pour faire ça sous forme d'un algo ? 🤨🤔 
 il faut créer une fonction factorielle qui va prendre le nombre de personne en paramètre appelé `personnes`,
 il faut cette fonction multiplie le nombre de `personnes` par le nombre de `personnes - 1` jusqu'à arriver à 1.
-C'est pas si compliqué, bon courage. 💪
+
+Mais non c'est pas si compliqué, bon courage! 💪
