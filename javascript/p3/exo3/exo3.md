@@ -25,15 +25,18 @@ Exemple:
 On a ici une organisation de la table avec les 6 personnes.
 Imaginons qu'on refasse ensuite l'organisation mais que les participants mais avec au moins un cas différent et ça jusqu'à avoir toute les possibilités possibles:
 
-Exemple:
+#### Exemple:
 
 Première possibilité:
+
 <img src="images/p1.png" width="300" height="200" />
 
 Seconde possibilité:
+
 <img src="images/p2.png" width="300" height="200" />
 
 Troisième possibilité:
+
 <img src="images/p3.png" width="300" height="200" />
 
 Et il y en a encore beaucoup d'autres...
