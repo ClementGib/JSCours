@@ -8,11 +8,10 @@
 3. Utiliser cette fonction et afficher à l'écran le nombre de possibilités selon le nombre de personnes.
 
 ## Rappel de l'arrangement mathématique:
-"L'arrangement est la disposition ordonnée d'un certain nombre d'éléments" 🤨🤔
-
+"L'arrangement est la disposition ordonnée d'un certain nombre d'éléments" 🤨🤔<br>
 En gros c'est le nombre de possibilité d'organisation réalisable sans répéter les mêmes cas.
 
-Exemple:
+#### Exemple:
 6 personnes arrivent dans une salle de réunion, il y a une table de 6 places:
 - Imaginons que le premier choisisse 1 place parmis les 6 disponibles, le premier aura donc donc 6 possibilités 6️
 - Le second va devoir choisir aussi, il aura plus que 5 places vue que le premier est assis sur une. 5️
