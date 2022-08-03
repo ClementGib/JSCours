@@ -11,7 +11,7 @@
 "L'arrangement est la disposition ordonnée d'un certain nombre d'éléments" 🤨🤔<br>
 En gros c'est le nombre de possibilité d'organisation réalisable sans répéter les mêmes cas.
 
-#### Exemple:
+#### Cas concret:
 6 personnes arrivent dans une salle de réunion, il y a une table de 6 places:
 - Imaginons que le premier choisisse 1 place parmis les 6 disponibles, le premier aura donc donc 6 possibilités 6️
 - Le second va devoir choisir aussi, il aura plus que 5 places vue que le premier est assis sur une. 5️
@@ -25,7 +25,7 @@ En gros c'est le nombre de possibilité d'organisation réalisable sans répéte
 On a ici une organisation de la table avec les 6 personnes.
 Imaginons qu'on refasse ensuite l'organisation mais que les participants mais avec au moins un cas différent et ça jusqu'à avoir toute les possibilités possibles:
 
-#### Exemple:
+#### Possibilités:
 
 1. Première possibilité:
 
