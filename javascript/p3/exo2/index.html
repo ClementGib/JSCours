@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="language" content="fr" />
+    <title>Calculatrice</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script type="text/javascript" src="exo2.js"></script>
+  </head>
+  <body>
+    <div>
+      <h1>Calculatrice</h1>
+
+      <div class="calculator">
+        <form name="Calculator" class="calculator">
+          <table
+            border="2"
+            align="center"
+            cellpadding="15"
+            cellspacing="12"
+            bgcolor="#c0c0c0">
+            <tr>
+              <td>
+                <input class="display" type="text" id="result" disabled />
+                <br />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <button id="button1" onclick="display('1')" >1</button>
+                <button id="button2" onclick="display('2')" >2</button>
+                <button id="button3" onclick="display('3')" >3</button>
+                <button id="buttonPlus">+</button>
+                <br />
+                <button id="button4" onclick="display('4')" >4</button>
+                <button id="button5" onclick="display('5')" >5</button>
+                <button id="button6">6</button>
+                <button id="buttonMinus">-</button>
+                <br />
+                <button id="button1">7</button>
+                <button id="button1">8</button>
+                <button id="button1">9</button>
+                <button id="button1">*</button>
+                <br />
+                <button id="buttonClear">C</button>
+                <button id="button0">0</button>
+                <button id="buttonEqual">=</button>
+                <button id="buttonDivide">/</button>
+                <br />
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
