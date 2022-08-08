@@ -1,4 +1,8 @@
 // Calculatrice de l'exo2 des conditions
+
+
+while
+
 var nombre1 = prompt("entrez le premier nombre")
 if(isNaN(nombre1)){
     window.alert(nombre1 + " " + "n\'\est pas un nombre")
