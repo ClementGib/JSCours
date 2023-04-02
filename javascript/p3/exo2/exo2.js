@@ -29,7 +29,31 @@
 //     window.alert(nombre1/nombre2)
 // }
 
+class Calculatrice {
+  //Opérande: une expression mathématique décrivant une opération
+  //Opérande précédente
+  operandePrecedent = '';
+  //Opérande actuelle
+  operandeCourante = '';
+  
+  
+  constructor(previousOperandTextElement, currentOperandTextElement) {
+    this.previousOperandTextElement = previousOperandTextElement
+    this.currentOperandTextElement = currentOperandTextElement
+    this.clear()
+  }
+  
+  effacer() {
+    this.operandeCourante = ''
+    this.operandePrecedent = ''
+    this.operation = undefined
+  }
+  
+  }
+
+
 class Calculator {
+
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement
     this.currentOperandTextElement = currentOperandTextElement
@@ -44,6 +68,7 @@ class Calculator {
 
   delete() {
     this.currentOperand = this.currentOperand.toString().slice(0, -1)
+    console.log(this.currentOperand.toString().slice(0, -1));
   }
 
   appendNumber(number) {
@@ -66,7 +91,22 @@ class Calculator {
     const prev = parseFloat(this.previousOperand)
     const current = parseFloat(this.currentOperand)
 
-    //switch case missing
+    switch (this.operation) {
+      case '+':
+        computation = prev + current
+        break
+      case '-':
+        computation = prev - current
+        break
+      case '*':
+        computation = prev * current
+        break
+      case '÷':
+        computation = prev / current
+        break
+      default:
+        return
+    } 
 
     this.currentOperand = computation
     this.operation = undefined
